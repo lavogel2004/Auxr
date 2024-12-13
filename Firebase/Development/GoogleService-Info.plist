@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>9152062757-aj4uquav9a7i1jtvun0rfghjm9dg9l1v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.9152062757-aj4uquav9a7i1jtvun0rfghjm9dg9l1v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZuUE8TpX9pVC2pJGHgKtJ_Wm6z6xQhUU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>9152062757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Auxr.Auxr</string>
+	<key>PROJECT_ID</key>
+	<string>auxr-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auxr-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:9152062757:ios:a017d57dc254102b1026cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://dev-auxr-app.firebaseio.com</string>
+</dict>
+</plist>
